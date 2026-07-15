@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Matias Fuentes Becerra"
 title_separator          : "-"
 name                     : &name "Matias Fuentes Becerra"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal academic website of Matías Fuentes Becerra — economist and MSc student in Economics at Universidad de Chile, working on experimental economics, public opinion, and the use of large language models for social research."
 url                      : https://mfuentesb.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ repository               : "mfuentesb/mfuentesb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Matias Fuentes Becerra"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Fellow CESS Nuffield"
+  pronouns         : # example: "she/her"
+  bio              : "Project Research Analyst — CESS (Nuffield/USACH) & Talking to Machines (Nuffield College, Oxford)"
   location         : "Rio de Janeiro, Brazil"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -87,9 +87,13 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  working-papers:
+    title: 'Working Papers'
+  reports:
+    title: 'Reports & Technical Assistance'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

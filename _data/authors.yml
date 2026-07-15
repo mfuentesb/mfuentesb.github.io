@@ -1,18 +1,5 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Per-post author overrides (optional).
+#
+# Only used if a post/page sets `author: <key>` in its front matter; otherwise
+# author info falls back to `author:` in _config.yml. Not currently used —
+# add entries here only if a page needs a different author than the site default.

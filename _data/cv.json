@@ -1,152 +1,259 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Matias Fuentes Becerra",
+    "label": "Economist & MSc student in Economics, Universidad de Chile",
+    "email": "mfuentesb@fen.uchile.cl",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://mfuentesb.github.io",
+    "summary": "Economist and MSc student in Economics at the Universidad de Chile, with applied research experience in experimental economics, microeconomics, and public opinion, focused on quantitative methods and the use of large language models (LLMs) for social research. Project Research Analyst at the Centre for Experimental Social Sciences (CESS, Nuffield College/USACH) and on Talking to Machines (Nuffield College, Oxford).",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Rio de Janeiro",
+      "countryCode": "BR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=b8XvQKgAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-5777-7580"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "mfuentesb",
+        "url": "https://github.com/mfuentesb"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mfuentesb-7b645914b",
+        "url": "https://www.linkedin.com/in/mfuentesb-7b645914b"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Talking to Machines (Nuffield College, University of Oxford)",
+      "position": "Project Research Analyst",
+      "startDate": "2025-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Centre for Experimental Social Sciences (Nuffield College, University of Oxford / Universidad de Santiago de Chile)",
+      "position": "Project Research Analyst",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Northwestern University and Universidad de los Andes (ESE Business School)",
+      "position": "Research Assistant",
+      "startDate": "2023-06",
+      "endDate": "2025-09",
+      "summary": "",
+      "highlights": ["Assisted Professors Sean Higgins, Sheisha Kulkarni, Erik Berwart, and Santiago Truffa"]
+    },
+    {
+      "company": "Universidad de Talca (School of Economics and Business)",
+      "position": "Research Assistant",
+      "startDate": "2022-06",
+      "endDate": "2023-06",
+      "summary": "",
+      "highlights": ["Assisted Professor Paulo Cox"]
+    },
+    {
+      "company": "Centre for Experimental Social Sciences (Nuffield College, University of Oxford / Universidad de Santiago de Chile)",
+      "position": "Research Assistant",
+      "startDate": "2021-01",
+      "endDate": "2022-12",
+      "summary": "",
+      "highlights": ["Assisted Professor Raymond Duch"]
+    },
+    {
+      "company": "Centre for Experimental Social Sciences (Nuffield College, University of Oxford / Universidad de Santiago de Chile)",
+      "position": "Predoctoral Fellow",
+      "startDate": "2020-03",
+      "endDate": "2020-12",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Universidad de Chile (School of Economics and Business)",
+      "position": "Research Assistant",
+      "startDate": "2019-07",
+      "endDate": "2019-08",
+      "summary": "",
+      "highlights": ["Assisted Professor Erwin Hansen"]
+    },
+    {
+      "company": "Universidad de Chile (School of Economics and Business - COES)",
+      "position": "Research Assistant",
+      "startDate": "2018-09",
+      "endDate": "2018-12",
+      "summary": "",
+      "highlights": ["Assisted Professor Valentina Paredes"]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Universidad de Chile",
+      "area": "MSc in Economics",
+      "studyType": "Master's",
+      "startDate": "2020",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Chile",
+      "area": "BSc in Economics (\"Ingeniería Comercial mención Economía\")",
+      "studyType": "Bachelor's",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Universidad Nacional de San Martín",
+      "area": "Winter School: Advanced Topics in Heterodox Economics",
+      "studyType": "Winter School",
+      "startDate": "2018",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Universidad de Chile",
+      "area": "Summer School: Economics and Business",
+      "studyType": "Summer School",
+      "startDate": "2014",
       "endDate": "2014",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "The British Institute",
+      "area": "British English Course",
+      "studyType": "Language Course",
+      "startDate": "2012",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Advanced",
+      "keywords": ["Stata", "Matlab", "RStudio"]
+    },
+    {
+      "name": "Intermediate",
+      "keywords": ["LaTeX", "Python", "Qualtrics", "Excel", "Git", "Heroku", "Claude Code"]
+    },
+    {
+      "name": "Basics",
+      "keywords": ["Eviews", "Microsoft Office", "Adobe Photoshop", "Adobe Illustrator", "JavaScript", "HTML"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Citizens from 13 countries share similar preferences for COVID-19 vaccine allocation priorities",
+      "publisher": "Proceedings of the National Academy of Sciences (PNAS), 118(38)",
+      "releaseDate": "2021-09-01",
+      "website": "https://mfuentesb.github.io/publication/2021-09-01-pnas-covid-vaccine-preferences",
+      "summary": "with R. Duch, L. S. J. Roope, M. Violato, T. S. Robinson, J.-F. Bonnefon, J. Friedman, P. J. Loewen, P. Mamidi, A. Melegaro, M. Blanco, J. Vargas, J. Seither, P. Candio, A. Gibertoni Cruz, X. Hua, A. Barnett, and P. M. Clarke"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "The COVID-19 pandemic and health-related quality of life across 13 high and low-middle income countries: a cross-sectional analysis",
+      "publisher": "PLoS Medicine, 20(4)",
+      "releaseDate": "2023-04-01",
+      "website": "https://mfuentesb.github.io/publication/2023-04-01-plos-medicine-hrqol",
+      "summary": "with R. Duch, M. Violato, J. Pollard, A. Lloyd, L. S. J. Roope, and P. M. Clarke"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Validating LLM-Based Digital Interviews for Individual-Level Public Opinion: A Chilean Election Study",
+      "publisher": "OSF (working paper)",
+      "releaseDate": "2026-01-01",
+      "website": "https://mfuentesb.github.io/publication/2026-validating-llm-digital-interviews",
+      "summary": "with R. Cerina, R. Duch, P. Kotlarz, R. Low, and F. Torres"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Vacunación contra el COVID-19 en Colombia: opinión pública sobre su priorización y distribución",
+      "publisher": "Innovation for Poverty Action (IPA)",
+      "releaseDate": "2021-01-01",
+      "website": "https://mfuentesb.github.io/publication/2021-ipa-colombia-vaccination-report",
+      "summary": "Technical assistance contribution; report authored by Vargas, J., Duch, R., Warren, S., Cabra, M., and Díaz, A. M. (2021)"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Experimental Methods Workshop",
+      "event": "Policía de Investigaciones de Chile (PDI) — Talking to Machines project",
+      "date": "2025-12-01",
+      "location": "Chile",
+      "description": "Workshop instructor."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Econometrics",
+      "institution": "Universidad Santo Tomás",
+      "date": "2022-01-01",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Econometrics I",
+      "institution": "Universidad de Chile",
+      "date": "2020-01-01",
+      "role": "Graduate Teaching Assistant",
       "description": ""
+    },
+    {
+      "course": "Economic History II",
+      "institution": "Universidad de Chile",
+      "date": "2018-01-01",
+      "role": "Undergraduate Teaching Assistant",
+      "description": ""
+    },
+    {
+      "course": "Introduction to Sociology",
+      "institution": "Universidad de Chile",
+      "date": "2018-06-01",
+      "role": "Undergraduate Teaching Assistant",
+      "description": "Two sections."
+    },
+    {
+      "course": "Introduction to Statistics",
+      "institution": "Universidad de Chile",
+      "date": "2017-01-01",
+      "role": "Undergraduate Teaching Assistant",
+      "description": "Three sections, 2017-2018."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
