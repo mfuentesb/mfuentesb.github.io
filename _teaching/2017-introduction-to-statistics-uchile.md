@@ -8,4 +8,4 @@ date: 2017-01-01
 location: "Santiago, Chile"
 ---
 
-Three sections, 2017–2018.
+Three semesters, 2017–2018.

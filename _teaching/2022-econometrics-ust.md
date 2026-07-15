@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Chile"
 ---
 
-One section, 2022.
+One semester, 2022.

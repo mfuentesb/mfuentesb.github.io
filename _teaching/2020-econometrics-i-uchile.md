@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Santiago, Chile"
 ---
 
-One section, 2020.
+One semester, 2020.
