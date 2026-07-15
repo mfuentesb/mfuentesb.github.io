@@ -10,3 +10,4 @@ redirect_from:
 {% include base_path %}
 
 [Download CV as PDF]({{ base_path }}/files/CV_Matias_Fuentes_Becerra.pdf){: .btn .btn--primary}
+
