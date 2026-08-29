@@ -3,6 +3,15 @@
    Entry layout for the /publications/ archive (see _includes/archive-single.html).
    ========================================================================== */
 
+.publication__title {
+  // Between the body/author size and the old h2 size; plain text, not a link
+  // (the entry links out via "Full details »").
+  font-size: $type-size-5;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0.15em;
+}
+
 .publication__meta {
   margin: 0.15em 0 0.4em;
   font-size: $type-size-6;
