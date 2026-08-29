@@ -1,0 +1,72 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{black}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+
+\boldname{Surname}{Name}{N.}
+
+\begin{document}
+
+% Heading
+\headinginline{Matias Fuentes Becerra}{
+    %Website: \website{example.com} \\ 
+    Email: \email{mfuentesb@fen.uchile.cl} \\
+    LinkedIn: \linkedin{mfuentesb-7b645914b} \\
+    GitHub: \github{mfuentesb} \\
+    Phone: +55 (21) 96522-3743
+}
+
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+% Page One
+\import{sections/}{education.tex}
+\import{sections/}{experience.tex}
+\import{sections/}{publications.tex}
+\import{sections/}{work-in-progress.tex}
+\import{sections/}{other publications.tex}
+
+% Page Two
+\import{sections/}{teaching.tex}
+\sidebyside
+    {\import{sections/}{skills.tex}}
+    {\import{sections/}{languages.tex}}
+%\import{sections/}{projects.tex}
+%\import{sections/}{awards.tex}
+\import{sections/}{extracurricular.tex}
+
+\newpage
+
+\section*{References}
+
+\begin{tabular}{@{}p{0.45\textwidth} p{0.45\textwidth}@{}}
+\textbf{Professor Raymond Duch} & \textbf{Professor Sean Higgins} \\
+Nuffield College & Kellogg School of Management \\
+University of Oxford & Northwestern University \\
+%Providence, Rhode Island 02912 & Providence, Rhode Island 02912 \\
+\href{mailto:raymond.duch@nuffield.ox.ac.uk}{raymond.duch@nuffield.ox.ac.uk} & \href{mailto:sean.higgins@kellogg.northwestern.edu}{sean.higgins@kellogg.northwestern.edu} \\
+\\
+\textbf{Professor Sheisha Kulkarni} & \textbf{Professor Santiago Truffa} \\
+McIntire School of Commerce & ESE Business School \\
+University of Virginia & Universidad de los Andes \\
+%Providence, Rhode Island 02912 & Providence, Rhode Island 02912 \\
+\href{mailto:sk7nn@virginia.edu}{sk7nn@virginia.edu} & \href{mailto:struffa.ese@uandes.cl}{struffa.ese@uandes.cl} \\
+\end{tabular}
+
+\end{document}

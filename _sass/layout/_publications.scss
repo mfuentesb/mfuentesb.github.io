@@ -1,0 +1,49 @@
+/* ==========================================================================
+   PUBLICATIONS LIST
+   Entry layout for the /publications/ archive (see _includes/archive-single.html).
+   ========================================================================== */
+
+.publication__meta {
+  margin: 0.15em 0 0.4em;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  color: var(--global-text-color);
+
+  > span + span::before {
+    content: "\00b7";
+    margin: 0 0.4em;
+    color: var(--global-text-color-light);
+  }
+}
+
+.publication__status {
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+.publication__tags {
+  margin: 0.35em 0 0.5em;
+  line-height: 1.9;
+}
+
+.publication__tag {
+  display: inline-block;
+  margin: 0 0.3em 0.3em 0;
+  padding: 0.12em 0.6em;
+  font-size: $type-size-7;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--global-text-color-light);
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+}
+
+.publication__links {
+  margin: 0.4em 0 0;
+  font-size: $type-size-6;
+
+  a {
+    margin-right: 0.9em;
+    white-space: nowrap;
+  }
+}

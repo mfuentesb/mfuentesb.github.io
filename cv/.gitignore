@@ -1,0 +1,13 @@
+# LaTeX build artifacts — the compiled CV lives at /files/CV_Matias_Fuentes_Becerra.pdf
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+main.pdf

@@ -1,0 +1,37 @@
+name: Build CV
+
+on:
+  push:
+    paths:
+      - 'cv/**'
+      - '.github/workflows/build-cv.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # This workflow commits the refreshed PDF
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Compile main.tex
+      uses: xu-cheng/latex-action@v3
+      with:
+        root_file: main.tex
+        working_directory: cv
+
+    - name: Publish PDF to files/
+      run: |
+        mkdir -p files
+        cp cv/main.pdf files/CV_Matias_Fuentes_Becerra.pdf
+
+    - name: Commit changes
+      run: |
+        git config --global --add safe.directory "$GITHUB_WORKSPACE"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add files/CV_Matias_Fuentes_Becerra.pdf
+        git commit -m "Automated CV rebuild" || echo "No changes to commit"
+        git push

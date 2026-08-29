@@ -3,10 +3,17 @@ title: "The COVID-19 pandemic and health-related quality of life across 13 high 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-01-plos-medicine-hrqol
-excerpt: 'Cross-sectional analysis of health-related quality of life during the COVID-19 pandemic across 13 high- and low-to-middle-income countries.'
-date: 2023-04-01
+authors: '<strong>M. Fuentes Becerra</strong>, with R. Duch, M. Violato, J. Pollard, A. Lloyd, L. S. J. Roope, and P. M. Clarke'
 venue: 'PLoS Medicine, 20(4)'
+date: 2023-04-01
 paperurl: 'https://doi.org/10.1371/journal.pmed.1004146'
+doi: 'https://doi.org/10.1371/journal.pmed.1004146'
+tags:
+  - Health economics
+  - Quality of life
+  - Cross-national
+  - COVID-19
+excerpt: 'Cross-sectional analysis of health-related quality of life during the COVID-19 pandemic across 13 high- and low-to-middle-income countries.'
 abstract: >-
   Background: Most research on COVID-19 has focused on confirmed cases and deaths rather than
   consequences for general population health-related quality of life (HRQoL). This study assessed

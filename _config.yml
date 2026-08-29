@@ -175,6 +175,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .github
+  - cv               # LaTeX source for the CV; the built PDF is served from /files/
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js

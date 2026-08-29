@@ -3,10 +3,18 @@ title: "Citizens from 13 countries share similar preferences for COVID-19 vaccin
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-01-pnas-covid-vaccine-preferences
-excerpt: 'Cross-national survey study (CANDOUR) finding broadly similar public preferences for how COVID-19 vaccines should be allocated across 13 countries.'
-date: 2021-09-01
+authors: '<strong>M. Fuentes Becerra</strong>, with R. Duch, L. S. J. Roope, M. Violato, T. S. Robinson, J.-F. Bonnefon, J. Friedman, P. J. Loewen, P. Mamidi, A. Melegaro, M. Blanco, J. Vargas, J. Seither, P. Candio, A. Gibertoni Cruz, X. Hua, A. Barnett, and P. M. Clarke'
 venue: 'Proceedings of the National Academy of Sciences (PNAS), 118(38)'
+date: 2021-09-01
 paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2026382118'
+doi: 'https://doi.org/10.1073/pnas.2026382118'
+tags:
+  - Public opinion
+  - Health policy
+  - Conjoint experiment
+  - Cross-national
+  - COVID-19
+excerpt: 'Cross-national survey study (CANDOUR) finding broadly similar public preferences for how COVID-19 vaccines should be allocated across 13 countries.'
 abstract: >-
   How does the public want a COVID-19 vaccine to be allocated? We conducted a conjoint experiment
   asking 15,536 adults in 13 countries to evaluate 248,576 profiles of potential vaccine recipients

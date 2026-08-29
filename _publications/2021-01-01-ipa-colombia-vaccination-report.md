@@ -3,10 +3,17 @@ title: "Vacunación contra el COVID-19 en Colombia: opinión pública sobre su p
 collection: publications
 category: reports
 permalink: /publication/2021-ipa-colombia-vaccination-report
-excerpt: 'Technical assistance report on Colombian public opinion regarding COVID-19 vaccine prioritization and distribution.'
-date: 2021-01-01
+authors: 'J. Vargas, R. Duch, S. Warren, M. Cabra, A. M. Díaz (technical assistance: <strong>M. Fuentes Becerra</strong>)'
 venue: 'Innovation for Poverty Action (IPA)'
+status: 'Technical assistance report &middot; 2021'
+date: 2021-01-01
 paperurl: 'https://www.poverty-action.org/publication/vacunaci%C3%B3n-contra-el-covid-19-en-colombia-opini%C3%B3n-p%C3%BAblica-sobre-su-priorizaci%C3%B3n-y'
+tags:
+  - Public opinion
+  - Vaccination
+  - Colombia
+  - Technical report
+excerpt: 'Technical assistance report on Colombian public opinion regarding COVID-19 vaccine prioritization and distribution.'
 abstract: >-
   This report examines Colombian public opinion on COVID-19 vaccine prioritization and distribution,
   drawing on RECOVR survey data. As of late February 2021, Colombia had recorded 2.25 million COVID-19
