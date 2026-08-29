@@ -7,7 +7,6 @@ authors: '<strong>M. Fuentes Becerra</strong>, with R. Duch, M. Violato, J. Poll
 venue: 'PLoS Medicine, 20(4)'
 date: 2023-04-01
 paperurl: 'https://doi.org/10.1371/journal.pmed.1004146'
-doi: 'https://doi.org/10.1371/journal.pmed.1004146'
 tags:
   - Health economics
   - Quality of life

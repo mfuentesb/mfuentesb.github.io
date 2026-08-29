@@ -12,6 +12,12 @@
   margin-bottom: 0.15em;
 }
 
+// The theme underlines .archive__item-title on item hover (meant for when it
+// was a link); the publication title isn't a link, so keep it plain.
+.archive__item:hover .publication__title {
+  text-decoration: none;
+}
+
 .publication__meta {
   margin: 0.15em 0 0.4em;
   font-size: $type-size-6;

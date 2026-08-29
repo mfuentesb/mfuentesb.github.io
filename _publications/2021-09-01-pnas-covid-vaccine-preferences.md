@@ -7,7 +7,6 @@ authors: '<strong>M. Fuentes Becerra</strong>, with R. Duch, L. S. J. Roope, M. 
 venue: 'Proceedings of the National Academy of Sciences (PNAS), 118(38)'
 date: 2021-09-01
 paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2026382118'
-doi: 'https://doi.org/10.1073/pnas.2026382118'
 tags:
   - Public opinion
   - Health policy
