@@ -36,4 +36,10 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
-        git push
+        # Build CV can push to master while this job runs; rebase onto it
+        # instead of failing the push.
+        for i in 1 2 3; do
+          git pull --rebase origin master && git push && exit 0
+          sleep 5
+        done
+        exit 1

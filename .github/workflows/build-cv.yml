@@ -34,4 +34,10 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add files/CV_Matias_Fuentes_Becerra.pdf
         git commit -m "Automated CV rebuild" || echo "No changes to commit"
-        git push
+        # Other workflows (e.g. Scrape Talk Locations) can push to master while
+        # this job runs; rebase onto them instead of failing the push.
+        for i in 1 2 3; do
+          git pull --rebase origin master && git push && exit 0
+          sleep 5
+        done
+        exit 1
