@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Matias Fuentes Becerra",
-    "label": "Economist & MSc student in Economics, Universidad de Chile",
+    "label": "Applied economist — experimental methods, distributive preferences, damage valuation, LLMs for social science",
     "email": "mfuentesb@fen.uchile.cl",
     "phone": "",
     "website": "https://mfuentesb.github.io",
-    "summary": "Economist and MSc student in Economics at the Universidad de Chile, with applied research experience in experimental economics, microeconomics, and public opinion, focused on quantitative methods and the use of large language models (LLMs) for social research. Project Research Analyst at the Centre for Experimental Social Sciences (CESS, Nuffield College/USACH) and on Talking to Machines (Nuffield College, Oxford).",
+    "summary": "Economist and MSc candidate in Economics at the Universidad de Chile, with applied research experience in experimental economics, microeconomics, and public opinion, focused on quantitative methods and the use of large language models (LLMs) for social research. Economic Analysis Consultant at Fundação Getulio Vargas (FGV), and Project Research Analyst at the Centre for Experimental Social Sciences (CESS, Nuffield College/USACH) and on Talking to Machines (Nuffield College, Oxford).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -37,6 +37,14 @@
     ]
   },
   "work": [
+    {
+      "company": "Fundação Getulio Vargas (FGV)",
+      "position": "Economic Analysis Consultant",
+      "startDate": "2026-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
     {
       "company": "Talking to Machines (Nuffield College, University of Oxford)",
       "position": "Project Research Analyst",
@@ -160,7 +168,7 @@
     },
     {
       "name": "Basics",
-      "keywords": ["Eviews", "Microsoft Office", "Adobe Photoshop", "Adobe Illustrator", "JavaScript", "HTML"]
+      "keywords": ["Eviews", "Microsoft Office", "JavaScript", "HTML"]
     }
   ],
   "languages": [
@@ -200,16 +208,23 @@
       "releaseDate": "2026-01-01",
       "website": "https://mfuentesb.github.io/publication/2026-validating-llm-digital-interviews",
       "summary": "with R. Cerina, R. Duch, P. Kotlarz, R. Low, and F. Torres"
-    },
-    {
-      "name": "Vacunación contra el COVID-19 en Colombia: opinión pública sobre su priorización y distribución",
-      "publisher": "Innovation for Poverty Action (IPA)",
-      "releaseDate": "2021-01-01",
-      "website": "https://mfuentesb.github.io/publication/2021-ipa-colombia-vaccination-report",
-      "summary": "Technical assistance contribution; report authored by Vargas, J., Duch, R., Warren, S., Cabra, M., and Díaz, A. M. (2021)"
     }
   ],
   "presentations": [
+    {
+      "name": "Talking to Digital Twins — The Wisdom of Digital Twins",
+      "event": "Pre-conference workshop, Large Language Models and the Social Sciences Conference (LLMSS 2026), City University of Hong Kong",
+      "date": "2026-10-13",
+      "location": "Hong Kong",
+      "description": "Workshop lead, with Raymond Duch. Hands-on session on building LLM digital twins from public posts and using them as a panel of on-demand forecasters (finfluencers and S&P 500 returns, prediction markets, sensitive-topic measurement)."
+    },
+    {
+      "name": "AIPOP — Artificially Intelligent Public Opinion Polling",
+      "event": "Pre-conference workshop, Large Language Models and the Social Sciences Conference (LLMSS 2026), City University of Hong Kong",
+      "date": "2026-10-13",
+      "location": "Hong Kong",
+      "description": "Workshop lead, with Raymond Duch and Laurenz Günther. Hands-on session on PoSSUM (Protocol for Surveying Social Media Users with Multimodal LLMs): digital interview design, building a silicon sample, and bias-corrected estimates with MrP in R."
+    },
     {
       "name": "Experimental Methods Workshop (\"Métodos Experimentales PDI – Universidad de Oxford\")",
       "event": "Policía de Investigaciones de Chile (PDI), Escuela de Investigaciones Policiales — Talking to Machines project",
