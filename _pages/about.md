@@ -9,9 +9,7 @@ redirect_from:
 
 I'm an economist and MSc candidate in Economics at the Universidad de Chile, with applied research experience in experimental economics, microeconomics, and public opinion, focused on quantitative methods and the use of large language models (LLMs) for social research.
 
-I currently work as an Economic Analysis Consultant at Fundação Getulio Vargas (FGV), on applied microeconomics and damage valuation. I'm also a Project Research Analyst at the Centre for Experimental Social Sciences (CESS), a centre associated with Nuffield College, University of Oxford, and Universidad de Santiago de Chile (USACH), and work on *Talking to Machines*, a separate project sponsored by Nuffield College, University of Oxford.
-
-My research interests center on inequalities, vulnerable populations, and crime.
+I currently work as an Economic Analysis Consultant at Fundação Getulio Vargas (FGV), on applied microeconomics and damage valuation. I also work as a Project Research Analyst at the Centre for Experimental Social Sciences (CESS), a centre associated with Nuffield College, University of Oxford, and Universidad de Santiago de Chile (USACH), and on *Talking to Machines*, a separate project sponsored by Nuffield College, University of Oxford.
 
 Research interests
 ======
